@@ -5,7 +5,7 @@ An interactive Power BI dashboard providing a complete analysis of sales perform
 
 **Tech Stack**
 
-Power BI Desktop
+Power BI Desktop 
 
 DAX (Data Analysis Expressions)
 
